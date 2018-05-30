@@ -1,6 +1,9 @@
 # hello-world
-Hi humans! 
 
-Rumplestiltskin here. It's sunny in Seattle. 
+Mister Cortland likes: 
+* Food 
+* People 
 
-
+Mister Cortland doesn't like: 
+* Dogs
+* Trucks 
