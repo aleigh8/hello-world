@@ -1,2 +1,6 @@
 # hello-world
-hello world tutorial 
+Hi humans! 
+
+Rumplestiltskin here. It's sunny in Seattle. 
+
+
